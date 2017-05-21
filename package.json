@@ -1,0 +1,32 @@
+{
+  "name": "spark-router",
+  "version": "0.6.0",
+  "description": "An opiniated, simple routing library for React/Redux applications.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomzmtl/spark-router.git"
+  },
+  "keywords": [
+    "router",
+    "react",
+    "redux"
+  ],
+  "peerDependencies": {
+    "react": "15.5.x",
+    "redux": "3.6.x",
+    "history": "4.6.x"
+  },
+  "author": "Thomas Andreo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomzmtl/spark-router/issues"
+  },
+  "homepage": "https://github.com/tomzmtl/spark-router#readme"
+}
